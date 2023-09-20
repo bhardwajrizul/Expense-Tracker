@@ -2,8 +2,9 @@
 
 Effortlessly track your expenses with the versatile ExpenseTracker application! This project showcases three popular state management approaches in React, each with its nuances and strengths.
 
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bhardwajrizul/Expense-Tracker/blob/master/LICENSE)
-[![React]](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🖼️ Application Preview
 
