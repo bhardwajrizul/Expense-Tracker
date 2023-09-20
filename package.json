@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.2",
+  "description": "React Project ",
+  "main": "index.js",
+  "homepage": "https://bhardwajrizul.github.io/Expense-Tracker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhardwajrizul/Expense-Tracker.git"
+  },
+  "author": "Rizul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhardwajrizul/Expense-Tracker/issues"
+  }
+}
